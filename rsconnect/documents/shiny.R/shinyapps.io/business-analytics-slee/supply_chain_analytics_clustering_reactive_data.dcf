@@ -1,0 +1,12 @@
+name: supply_chain_analytics_clustering_reactive_data
+title: supply_chain_analytics_clustering_reactive_data
+username: business-analytics-slee
+account: business-analytics-slee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11416232
+bundleId: 8338690
+url: https://business-analytics-slee.shinyapps.io/supply_chain_analytics_clustering_reactive_data/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
